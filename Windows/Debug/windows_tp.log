@@ -1,0 +1,64 @@
+﻿  stdafx.cpp
+  main.c
+  appl_obj_port.c
+  appl_adimap_verif.c
+  appl_adimap_sync.c
+  appl_adimap_speed_example.c
+  appl_adimap_simple16.c
+  appl_adimap_separate16.c
+  appl_adimap_bacnet.c
+  appl_adimap_asm.c
+  appl_adimap_alltypes.c
+  appl_abcc_handler.c
+  sync_obj.c
+  safe_obj.c
+  opcua_obj.c
+  prt.c
+  mod.c
+  epl.c
+  eip.c
+  ect.c
+  dpv1.c
+  Generating Code...
+  Compiling...
+  dev.c
+  cop.c
+  cfn.c
+  ccl.c
+  bac.c
+  mqtt_obj.c
+  etn_obj.c
+  asm_obj.c
+  app_obj.c
+  app_fsi_obj.c
+  anb_fsi_obj.c
+  ad_obj.c
+  abcc_spi_drv.c
+  abcc_handler_spi.c
+  abcc_crc32.c
+  abcc_serial_drv.c
+  abcc_handler_ser.c
+  abcc_crc16.c
+  abcc_par_drv.c
+  abcc_handler_par.c
+  Generating Code...
+  Compiling...
+  abcc_par30_drv.c
+  abcc_handler_par30.c
+  abcc_timer.c
+  abcc_setup.c
+  abcc_seg.c
+  abcc_remap.c
+  abcc_mem.c
+  abcc_link.c
+  abcc_handler.c
+  abcc_debug_err.c
+  abcc_cmd_seq.c
+  imp_tp.c
+  abcc_time.c
+  abcc_sys_adapt.c
+  abcc_sw_port.c
+  Generating Code...
+abcc_sw_port.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  windows_tp.vcxproj -> D:\Project\DDI_Comm_Module\Software\Windows\Debug\windows_tp.exe
+  windows_tp.vcxproj -> D:\Project\DDI_Comm_Module\Software\Windows\Debug\windows_tp.pdb (Full PDB)
